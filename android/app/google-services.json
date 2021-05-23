@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "653184645724",
+    "project_id": "colcoassignment",
+    "storage_bucket": "colcoassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653184645724:android:b0992b4a01633d4d6b0499",
+        "android_client_info": {
+          "package_name": "com.example.colco_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653184645724-435rh71e3994lqrgdlp6a7u642sm0fon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARPfn4wghVJjNHOCOzqzNdB8snX1Dq498"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653184645724-435rh71e3994lqrgdlp6a7u642sm0fon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
